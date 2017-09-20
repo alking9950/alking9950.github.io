@@ -10,7 +10,7 @@
         "title":"FREE BITCOIN",
         "provider":"webview",
         "arguments":[
-          "https://freebitco.in/?r=1574855"
+          "http://freebitco.in/?r=1574855&tag=app"
         ]
       }
     ]
