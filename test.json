@@ -1,0 +1,33 @@
+[
+  {
+    "title":"Wordpress Blogs",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Recent",
+        "provider":"rss",
+        "arguments":[
+          "http://feeds.feedburner.com/alrakoba/Jhhc"
+        ]
+      }
+    ]
+  },
+  
+  {
+    "title":"Custom",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
