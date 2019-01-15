@@ -1,4 +1,19 @@
 [
+   {
+    "title":"السودان اليوم",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"اخر الاخبار",
+        "provider":"wordpress",
+        "arguments":[
+          "https://http://alsudanalyoum.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
   {
     "title":"Wordpress Blogs",
     "drawable":"",
@@ -14,21 +29,7 @@
       }
     ]
   },
-  {
-    "title":"السودان اليوم",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"اخر الاخبار",
-        "provider":"wordpress",
-        "arguments":[
-          "https://ara.alrakoba.net/wp-json/wp/v2/"
-        ]
-      }
-    ]
-  },
+ 
   {
     "title":"Custom",
     "drawable":"",
