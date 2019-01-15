@@ -9,7 +9,7 @@
         "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-          "https://http://alsudanalyoum.com/wp-json/wp/v2/"
+          "https://alsudanalyoum.com/wp-json/wp/v2/"
         ]
       }
     ]
