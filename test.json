@@ -9,7 +9,7 @@
         "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-          "https://ara.alrakoba.net/wp-json/wp/v2/"
+          "https://alrak.herokuapp.com/api?url=https://ara.alrakoba.net/wp-json/wp/v2/"
         ]
       }
     ]
