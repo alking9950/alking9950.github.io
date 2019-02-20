@@ -9,13 +9,73 @@
         "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-          "https://alrak.herokuapp.com/api?url=https://ara.alrakoba.net/wp-json/wp/v2/"
+          "https://alsudanalyoum.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+   {
+    "title":"النيلين",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"اخر الاخبار",
+        "provider":"wordpress",
+        "arguments":[
+          "https://www.alnilin.com/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+   {
+    "title":"كوش نيوز",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"اخر الاخبار",
+        "provider":"wordpress",
+        "arguments":[
+          "https://kushnews.net/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+   {
+    "title":"باج نيوز",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"اخر الاخبار",
+        "provider":"wordpress",
+        "arguments":[
+          "https://www.bajnews.net/wp-json/wp/v2/"
+        ]
+      }
+    ]
+  },
+   {
+    "title":"صوت الهامش",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"اخر الاخبار",
+        "provider":"wordpress",
+        "arguments":[
+          "https://www.alhamish.com/wp-json/wp/v2/"
         ]
       }
     ]
   },
   {
-    "title":"Wordpress Blogs",
+    "title":"الراكوبة",
     "drawable":"",
     "submenu":"",
     "iap":false,
