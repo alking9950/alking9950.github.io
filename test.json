@@ -9,7 +9,7 @@
         "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-          "https://alsudanalyoum.com/wp-json/wp/v2/"
+          "https://alsudanalyoum.com/wp-json/wp/v2/",""
         ]
       }
     ]
@@ -24,7 +24,7 @@
         "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-          "https://www.alnilin.com/wp-json/wp/v2/"
+          "https://www.alnilin.com/wp-json/wp/v2/",""
         ]
       }
     ]
@@ -39,7 +39,7 @@
         "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-          "https://kushnews.net/wp-json/wp/v2/"
+          "https://kushnews.net/wp-json/wp/v2/",""
         ]
       }
     ]
@@ -54,7 +54,7 @@
         "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-          "https://www.bajnews.net/wp-json/wp/v2/"
+          "https://www.bajnews.net/wp-json/wp/v2/",""
         ]
       }
     ]
@@ -69,7 +69,7 @@
         "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-          "https://www.alhamish.com/wp-json/wp/v2/"
+          "https://www.alhamish.com/wp-json/wp/v2/",""
         ]
       }
     ]
