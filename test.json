@@ -82,9 +82,9 @@
     "tabs":[
       {
         "title":"Recent",
-        "provider":"rss",
+        "provider":"webview",
         "arguments":[
-          "http://feeds.feedburner.com/alrakoba/oFBH"
+          "https://www.alrakoba.net"
         ]
       }
     ]
