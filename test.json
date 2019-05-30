@@ -69,7 +69,7 @@
         "title":"اخر الاخبار",
         "provider":"wordpress",
         "arguments":[
-          "https://www.altaghyeer.info/wp-json/wp/v2/posts",""
+          "https://www.altaghyeer.info/wp-json/wp/v2/",""
         ]
       }
     ]
