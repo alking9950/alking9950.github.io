@@ -52,9 +52,9 @@
     "tabs":[
       {
         "title":"اخر الاخبار",
-        "provider":"wordpress",
+        "provider":"rss",
         "arguments":[
-          "https://www.bajnews.net/wp-json/wp/v2/",""
+          "https://bajnews.net/feed/"
         ]
       }
     ]
