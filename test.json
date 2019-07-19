@@ -1,108 +1,128 @@
 [
-   {
-    "title":"السودان اليوم",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"اخر الاخبار",
-        "provider":"wordpress",
-        "arguments":[
-          "https://alsudanalyoum.com/wp-json/wp/v2/",""
+    {
+        "title": "باكر نيوز",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "اخر الاخبار",
+                "provider": "wordpress",
+                "arguments": [
+                    "160539498",
+                    ""
+                ]
+            }
         ]
-      }
-    ]
-  },
-   {
-    "title":"النيلين",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"اخر الاخبار",
-        "provider":"wordpress",
-        "arguments":[
-          "https://www.alnilin.com/wp-json/wp/v2/",""
+    },
+    {
+        "title": "السودان اليوم",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "اخر الاخبار",
+                "provider": "wordpress",
+                "arguments": [
+                    "https://alsudanalyoum.com/wp-json/wp/v2/",
+                    ""
+                ]
+            }
         ]
-      }
-    ]
-  },
-   {
-    "title":"كوش نيوز",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"اخر الاخبار",
-        "provider":"wordpress",
-        "arguments":[
-          "136590989",""
+    },
+    {
+        "title": "النيلين",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "اخر الاخبار",
+                "provider": "wordpress",
+                "arguments": [
+                    "https://www.alnilin.com/wp-json/wp/v2/",
+                    ""
+                ]
+            }
         ]
-      }
-    ]
-  },
-   {
-    "title":"باج نيوز",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"اخر الاخبار",
-        "provider":"rss",
-        "arguments":[
-          "https://bajnews.net/feed/"
+    },
+    {
+        "title": "كوش نيوز",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "اخر الاخبار",
+                "provider": "wordpress",
+                "arguments": [
+                    "136590989",
+                    ""
+                ]
+            }
         ]
-      }
-    ]
-  },
-  {
-    "title":"صحيفة التغيير",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"اخر الاخبار",
-        "provider":"wordpress",
-        "arguments":[
-          "https://www.altaghyeer.info/wp-json/wp/v2/",""
+    },
+    {
+        "title": "باج نيوز",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "اخر الاخبار",
+                "provider": "rss",
+                "arguments": [
+                    "https://bajnews.net/feed/"
+                ]
+            }
         ]
-      }
-    ]
-  },
-  {
-    "title":"الراكوبة",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent",
-        "provider":"webview",
-        "arguments":[
-          "https://www.alrakoba.net"
+    },
+    {
+        "title": "صحيفة التغيير",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "اخر الاخبار",
+                "provider": "wordpress",
+                "arguments": [
+                    "https://www.altaghyeer.info/wp-json/wp/v2/",
+                    ""
+                ]
+            }
         ]
-      }
-    ]
-  },
- 
-  {
-    "title":"Custom",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"custom",
-        "arguments":[
-          "com.sherdle.universal.SettingsFragment", "fragment"
+    },
+    {
+        "title": "الراكوبة",
+        "drawable": "",
+        "submenu": "",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "Recent",
+                "provider": "webview",
+                "arguments": [
+                    "https://www.alrakoba.net"
+                ]
+            }
         ]
-      }
-    ]
-  }
+    },
+    {
+        "title": "Custom",
+        "drawable": "",
+        "submenu": "Other",
+        "iap": false,
+        "tabs": [
+            {
+                "title": "",
+                "provider": "custom",
+                "arguments": [
+                    "com.sherdle.universal.SettingsFragment",
+                    "fragment"
+                ]
+            }
+        ]
+    }
 ]
